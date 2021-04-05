@@ -1,0 +1,29 @@
+{
+  "name": "bins",
+  "version": "1.0.0",
+  "description": "manage your bin paths, baby",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKYCRATE-ltd/bins.git"
+  },
+  "keywords": [
+    "path",
+    "bin",
+    "PATH",
+    "environment"
+  ],
+  "author": "Graham Robertson | SKYCRATE ltd",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SKYCRATE-ltd/bins/issues"
+  },
+  "homepage": "https://github.com/SKYCRATE-ltd/bins#readme",
+  "dependencies": {
+    "termite": "github:SKYCRATE-ltd/termite"
+  }
+}
